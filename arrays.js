@@ -60,6 +60,7 @@ function bigOrSmall(arr){
    }
   }
   console.log("answers is", answers)
+  //return answers
   
 }
 
