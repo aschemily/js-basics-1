@@ -10,7 +10,7 @@ let myName ="Emily Asch"
 
 //CODE HERE
 
-let faveNum = 8
+let faveNum = "13"
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
@@ -27,7 +27,7 @@ let lovesCode = true
 
 //CODE HERE
 
-if(faveNum == 13){
+if(faveNum === 13){
   consol.elog("lucky 13!")
 }else{
   console.log("not lucky 13", "number is:", faveNum)
@@ -41,5 +41,5 @@ if(faveNum == 13){
 //CODE HERE
 
 for(let i = 0; i < 5; i++){
-  console.log("i is", i)
+  console.log("faveNum is", faveNum)
 }
